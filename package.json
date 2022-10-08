@@ -2,7 +2,9 @@
   "name": "simple-node-api",
   "version": "1.0.0",
   "main": "server.js",
-  "start":"nodemon server.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
   "type": "module",
   "repository": "https://github.com/frankopkusianwar/simple-node-api.git",
   "author": "frankopkusianwar <okirorfrank3@gmail.com>",
